@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Task6 {
 
@@ -10,7 +12,9 @@ public class Task6 {
         System.out.println("The initial array is: " + Arrays.toString(numArray));
 
         for (int i : numArray) {
-            if (i % 5 == 0 && i <= 150) {
+            if(i > 150) {
+                break;
+            } else if (i % 5 == 0) {
                 System.out.println(i + " is divisible by 5");
             }
         }
