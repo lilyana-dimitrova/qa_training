@@ -15,7 +15,7 @@ public class Task7 {
         }
         System.out.println("Reversed order of list1: " + list1);
     }
-    //testing
+
 
 }
 
