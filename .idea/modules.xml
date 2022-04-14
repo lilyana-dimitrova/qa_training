@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.lecture4/com.lecture4.iml" filepath="$PROJECT_DIR$/com.lecture4/com.lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.lecture5/com.lecture5.iml" filepath="$PROJECT_DIR$/com.lecture5/com.lecture5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.lecture6/com.lecture6.iml" filepath="$PROJECT_DIR$/com.lecture6/com.lecture6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/qa_training.iml" filepath="$PROJECT_DIR$/.idea/qa_training.iml" />
     </modules>
   </component>
