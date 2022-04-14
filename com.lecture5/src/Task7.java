@@ -20,11 +20,11 @@ public class Task7 {
         }
 
         if (word.equalsIgnoreCase(reversed.toString())) {
-            System.out.println(word + " is a Palindrome String.");
+            System.out.println(word + " is a Palindrome.");
             return true;
         }
         else {
-            System.out.println(word + " is not a Palindrome String.");
+            System.out.println(word + " is not a Palindrome.");
             return  false;
         }
     }
